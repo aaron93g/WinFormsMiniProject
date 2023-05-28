@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonnelInformation", "PersonnelInformation\PersonnelInformation.csproj", "{3CB26DB4-1CCF-414D-95EF-BDBFECE26217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonnelAppLibrary", "PersonnelAppLibrary\PersonnelAppLibrary.csproj", "{161EF023-9460-4E6E-BF37-0ACFA655774E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CB26DB4-1CCF-414D-95EF-BDBFECE26217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB26DB4-1CCF-414D-95EF-BDBFECE26217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB26DB4-1CCF-414D-95EF-BDBFECE26217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB26DB4-1CCF-414D-95EF-BDBFECE26217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161EF023-9460-4E6E-BF37-0ACFA655774E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161EF023-9460-4E6E-BF37-0ACFA655774E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161EF023-9460-4E6E-BF37-0ACFA655774E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161EF023-9460-4E6E-BF37-0ACFA655774E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B267D30-D512-496B-A5CB-9DD0568F307F}
+	EndGlobalSection
+EndGlobal
